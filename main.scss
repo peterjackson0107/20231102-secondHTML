@@ -1,0 +1,53 @@
+$maincolor:rgb(174, 14, 153);;
+
+body{
+    margin: 0px;
+}
+
+.area{
+    width: 100vw;
+    display:flex;
+
+}
+
+.header{
+    height: 13vh;
+    background-color: $maincolor;
+    }
+
+.second{
+    height: 18vh;
+    justify-self: center;
+    align-items: center;
+
+    .secondBlock{
+        background-color: $maincolor;
+        width: 20%;
+        height: 60%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+}
+
+.third{
+    height: 50vh;
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+    .thirdArea{
+        width: 40%;
+        height: inherit;
+    }
+
+    .thirdLeft{
+        background-color: $maincolor;
+    }
+    .thirdRight{
+        margin-right: 10%;
+    }
+}
+
+.footer{
+    height: 10vh;
+    background-color: $maincolor;
+}
