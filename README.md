@@ -1,7 +1,7 @@
 # 2023.11.02
 
 ## 網址
-https://peterjackson0107.github.io/20231101-firstHTMLPractice/
+[https://peterjackson0107.github.io/20231101-firstHTMLPractice/](https://peterjackson0107.github.io/20231102secondHTMLPractice/)
 
 ## 專案技術
 * HTML
