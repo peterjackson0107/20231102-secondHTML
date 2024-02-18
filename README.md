@@ -1,7 +1,7 @@
 # 2023.11.02
 
 ## 網址
-[https://peterjackson0107.github.io/20231101-firstHTMLPractice/](https://peterjackson0107.github.io/20231102secondHTMLPractice/)
+(https://peterjackson0107.github.io/20231102secondHTMLPractice/)
 
 ## 專案技術
 * HTML
@@ -24,8 +24,8 @@ SCSS 能夠使用巢狀結構去編輯語言
 ```
 * SCSS、SASS 差別
 ```
-SCSS- 較接近原始 CSS 語法，擴充了巢狀、mixin、extend...等功能。
-SASS- 比 SCSS 更簡化 {　} 跟 ; 都省略，相對縮排必須變得嚴謹。
+SCSS：較接近原始 CSS 語法，擴充了巢狀、mixin、extend...等功能。
+SASS：比 SCSS 更簡化 {　} 跟 ; 都省略，相對縮排必須變得嚴謹。
 ```
 
 ## 想法
