@@ -1,9 +1,9 @@
-# 2023.11.02
+# 2023.11.02 (第二次練習HTML) (二回目のHTML練習)
 
-## 網址
+## 網址 (ウェブ)
 https://peterjackson0107.github.io/20231102-secondHTML/
 
-## 專案技術
+## 專案技術 (プログラミング言語)
 * HTML
 * CSS
 * SCSS
@@ -44,10 +44,10 @@ height: 100%;
 height: inherit;
 ```
 
-## 參考版面
+## 參考版面 (参考資料)
 ![image](https://github.com/peterjackson0107/20231102HomeWork2/assets/151004314/af8eb86c-cfd9-4753-8566-3302e917b872)
 
-## 畫面
+## 畫面 (画面)
 * 醜い分かります
 
 ![image](https://github.com/peterjackson0107/20231102HomeWork2/assets/151004314/cd24d034-6faa-461d-9c8a-b9214c197a36)
